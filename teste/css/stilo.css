@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: helvetica;
+}
+
+header {
+background-image:url('../css/img/logo2.png') ;
+padding: 15%;
+border-bottom: 5px solid #43b3e0;
+background-position: center;
+background-size: cover;
+}
